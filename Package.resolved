@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Lastivky/PluginBuilder.git",
       "state" : {
-        "branch" : "main",
-        "revision" : "b336c19f6488c072179fa8a9de7226bc4330758f"
+        "branch" : "test",
+        "revision" : "285127e40893d20ca71209fe81bf7d69452db398"
       }
     }
   ],

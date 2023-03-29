@@ -9,7 +9,7 @@ let package = Package(
         .macOS(.v13)
     ],
     dependencies: [
-        .package(url: "https://github.com/Lastivky/PluginBuilder.git", branch: "main")
+        .package(url: "https://github.com/Lastivky/PluginBuilder.git", branch: "test")
     ],
     targets: [
         .executableTarget(name: "CoreApp", dependencies: [
